@@ -1,4 +1,4 @@
-# 📐 Mesures de la Causalité — Évaluation du Programme PSAM par Quatre Méthodes d'Identification
+# 📐 Mesures de la Causalité — Évaluation du Programme PSAM par Trois Méthodes d'Identification
 
 > Master 1 Économie Appliquée · Université Paris Cité  
 > Auteur : Ryan Jordan TCHOKOUAHA TCHAHA · Année académique 2025–2026  
